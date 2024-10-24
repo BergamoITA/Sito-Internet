@@ -71,7 +71,7 @@ a{color:  coral}
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: sans-serif;
 }
 
 body{
@@ -122,6 +122,22 @@ body{
   margin-top: 16px;
   color: #fff;
 }
+
+
+.button-container .btn{
+  display: inline-block;
+  padding: 150px 150px;
+  background-color: #333;
+  text-decoration: none;
+  border-radius: 4px;
+  margin-top: 16px;
+  color: #fff;
+}
+
+
+
+
+
 
 
 
